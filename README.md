@@ -2,7 +2,7 @@
 
 An [ESLint](http://eslint.org/) plugin to lint JavaScript in Markdown.
 
-Supported extensions are `.markdown`, `.mdown`, `.mkdn`, and `.md`.
+Supported extensions are `.html`, `.markdown`, `.mdown`, `.mkdn`, and `.md`.
 
 ## Usage
 
